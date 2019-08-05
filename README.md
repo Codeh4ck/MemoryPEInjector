@@ -1,7 +1,7 @@
 # Memory PE Injector
 A tool that reads a PE file from a byte array buffer and injects it into memory.
 
-# Symmary
+# Summary
 Memory PE Injector is a C++ class which reads an executable file (PE) from a byte array
 and maps it into the memory space of another process. This is commonly known as **Process Forking**
 or **RunPE**. To accomplish this, the code follows these steps:
